@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.jooq
+Bnd-LastModified: 1560846709181
+Build-Jdk: 1.8.0_191
+Built-By: Data Geekery GmbH
+Bundle-Description: jOOQ effectively combines complex SQL, typesafety, s
+ ource code generation, active records,        stored procedures, advanc
+ ed data types, and Java in a fluent, intuitive DSL.
+Bundle-License: http://www.jooq.org/inc/LICENSE.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: jOOQ
+Bundle-SymbolicName: jooq
+Bundle-Version: 3.11.11
+Created-By: Apache Maven Bundle Plugin
+Import-Package: javax.persistence;resolution:=optional;version="[2.2,3)"
+ ,org.apache.log4j;resolution:=optional;version="[1.2,2)"
+Tool: Bnd-3.3.0.201609221906
